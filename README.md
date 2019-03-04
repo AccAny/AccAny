@@ -1,6 +1,6 @@
 
 # Rain & Water Effect Experiments
-#AccAny
+# AccAny
 Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 
 [Article on Codrops](http://tympanus.net/codrops/?p=25417)
@@ -17,7 +17,3 @@ Read more here: [License](http://tympanus.net/codrops/licensing/)
 ## Misc
 
 Follow : [GitHub](https://github.com/AccAny)
-
-
-
-
